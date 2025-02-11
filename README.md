@@ -1,4 +1,4 @@
-# 🏠 Docker HA & HA OS
+# HA Command_line sensor (nebo.live)
 
 ## 🐳 Установка в Docker HA
 
