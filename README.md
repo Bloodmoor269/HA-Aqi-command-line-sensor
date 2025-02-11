@@ -1,5 +1,5 @@
 # HA Command_line sensor (nebo.live)
-
+Создание сенсора в Home Assistant с показаниями aqi с конкретного датчика с nebo.live
 ## 🐳 Установка в Docker HA
 
 ```bash
