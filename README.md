@@ -19,8 +19,8 @@ command_line:
 Перезагрузите HA
 
 ## 🏠 Установка в Home Assistant OS
-Установите Addon → File Editor
-Откройте configuration.yaml
+Установите Addon → File Editor → Откройте configuration.yaml
+
 Добавьте:
 ```yaml
 command_line:
