@@ -2,9 +2,12 @@
 
 ## 🐳 Установка в Docker HA
 
-```sh
+```bash
 sudo docker exec -it homeassistant bash
+```
+```bash
 vi configuration.yaml
+```
 command_line:
   - sensor:
       command: "curl -k --silent 'https://nebo.live/ru/krs/sensors/ulitsa-krasnoi-armii-18' | \
