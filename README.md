@@ -8,6 +8,7 @@ sudo docker exec -it homeassistant bash
 ```bash
 vi configuration.yaml
 ```
+Подставьте ссылку на нужный вам датчик с сайта nebo.live
 ```yaml
 command_line:
   - sensor:
@@ -21,7 +22,7 @@ command_line:
 ## 🏠 Установка в Home Assistant OS
 Установите Addon → File Editor → Откройте configuration.yaml
 
-Добавьте:
+Подставьте ссылку на нужный вам датчик с сайта nebo.live
 ```yaml
 command_line:
   - sensor:
